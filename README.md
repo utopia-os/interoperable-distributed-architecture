@@ -17,8 +17,8 @@ Instead of trying to agree on a shared data-format and specific technologies we 
 ## Requirements
 
 - Users can create, read, update and delete (CRUD) data items
-- Data items can be owned by a user or group of users
-- Data items can belong to one or more networks
+- Single data items can be owned by a user or group of users
+- Single data items can belong to one or more networks
 - Different Networks running different databases
 - Frontends can connect with one or more databases
 - Adapters allow frontends to perform CRUD operations on different databases
@@ -30,7 +30,7 @@ Instead of trying to agree on a shared data-format and specific technologies we 
 
 ![](IDA.png)
 
-To implement this, we propose a layered approach. The foundational layer consists of various databases, each serving different networks and owned by different users or groups of users. These databases could be either server-based or peer-to-peer (p2p), depending on the needs and resources of the network.
+To implement this, we propose a layered approach. The foundational layer consists of various databases, each serving different networks. These databases could be either server-based or peer-to-peer (p2p), depending on the needs and resources of the network.
 
 The next layer is the Adapters. These are designed to facilitate the interaction between frontends and databases. They allow frontends to perform create, read, update, and delete (CRUD) operations on different databases, ensuring a smooth flow of data.
 
