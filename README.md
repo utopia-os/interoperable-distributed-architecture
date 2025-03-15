@@ -1,6 +1,6 @@
 # Interoperable Distributed Architecture
 
-In the final age of capitalism there are more and more projects, networks and application aiming to bring people together for change, collective action and manifesting new regenerative post-capitalistic structures.
+In times of the meta crisis there are more and more projects, networks and application aiming to bring people together for change, collective action and manifesting new regenerative structures.
 
 Every project and network has their specific focus and idea about change. At the same time it's also just a small puzzle piece inside a much bigger game without any centralized coordination. So we need to appreciate that their are myriads of ideas, apps and databases working in their way with their tools and technologies.
 
